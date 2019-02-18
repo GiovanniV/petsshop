@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"classmap": [
+			"database/",
+			"src/",
+			"config.php"
+		],
+		"require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+	}
+}
